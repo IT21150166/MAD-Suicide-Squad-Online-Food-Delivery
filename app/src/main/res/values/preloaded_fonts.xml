@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/actor</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/arbutus</item>
+        <item>@font/asset</item>
+        <item>@font/autour_one</item>
+    </array>
+</resources>
